@@ -4,4 +4,4 @@ Authors: Bibiana Terra Dasoler, Talita Menger, Andreas Kindel, Franciane Almeida
 
 Records of crossings and roadkill collected during the survey are available in "xlsx" format in the "Data" folder.
 
-If you have any questions please get in touch with the corresponding Author at bibianadasoler@gmail.com.
+If you have any questions please get in touch with the corresponding author at bibianadasoler@gmail.com.
